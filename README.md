@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hesham-sherif-elmosalamy-7449ba127/">
+  <a href="https://www.linkedin.com/in/hesham-sherif-elmosalamy/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:heshamelsherif97@gmail.com">
@@ -102,7 +102,7 @@ Also proposed fixes to [Cilium](https://github.com/cilium/cilium/pull/38081) (He
 Always happy to talk **platform engineering**, **Kubernetes at scale**, **progressive delivery**, or where **AI agents** fit into developer platforms. ☕
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hesham-sherif-elmosalamy-7449ba127/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/hesham-sherif-elmosalamy/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="mailto:heshamelsherif97@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://heshamelsherif97.github.io"><b>heshamelsherif97.github.io</b></a>
 </p>
